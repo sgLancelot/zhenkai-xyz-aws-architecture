@@ -1,13 +1,13 @@
-<mxfile modified="2022-01-02T07:08:42.041Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="DgaBM7mR2mP54tfSp4ag" version="16.1.2" type="github">
+<mxfile modified="2022-01-02T07:33:36.462Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="HkKM8eMKQo2MNVCLYPfq" version="16.1.2" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="2591" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2591" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="24ib-LdrBKBhXYgPnSqK-10" value="In the same AWS Organization                                                                                                                              " style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" parent="1" vertex="1">
           <mxGeometry x="-1150" y="40" width="600" height="636.75" as="geometry" />
         </mxCell>
-        <mxCell id="7NBj9qlON9shgXfnsOWw-2" value="IPAM (choose main and operating regions)" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" parent="1" vertex="1">
+        <mxCell id="7NBj9qlON9shgXfnsOWw-2" value="IPAM" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" parent="1" vertex="1">
           <mxGeometry x="-1120" y="176.75" width="540" height="360" as="geometry" />
         </mxCell>
         <mxCell id="vV3kP8_P8c0JdKtfFnim-1" value="" style="verticalAlign=top;fontStyle=0;fillColor=default;strokeWidth=1;strokeColor=#007FFF;" parent="1" vertex="1">
